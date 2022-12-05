@@ -48,8 +48,9 @@ git clone https://github.com/ABC-AlmaBetterCapstone/Backend-Capstone-Project.git
 ### Install npm dependencies after installing (Git or manual download)
 
 ```
-cd captionproject
+cd Backend-Capstone-Project
 npm install
+npm i mongoose
 ```
 
 
